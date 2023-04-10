@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/code-react/static/css/main.8ddadec4.css",
+    "main.js": "/code-react/static/js/main.ea192093.js",
+    "static/js/787.aff8e449.chunk.js": "/code-react/static/js/787.aff8e449.chunk.js",
+    "static/media/banner-bg.jpg": "/code-react/static/media/banner-bg.36feb54176e588fffde2.jpg",
+    "index.html": "/code-react/index.html",
+    "main.8ddadec4.css.map": "/code-react/static/css/main.8ddadec4.css.map",
+    "main.ea192093.js.map": "/code-react/static/js/main.ea192093.js.map",
+    "787.aff8e449.chunk.js.map": "/code-react/static/js/787.aff8e449.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8ddadec4.css",
+    "static/js/main.ea192093.js"
+  ]
+}
